@@ -1,0 +1,62 @@
+
+.navbar{
+    background-color: rgb(8, 43, 5);
+    margin: 0px;
+
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0px 8px;
+    line-height: 40px;
+}
+
+.row{
+    height: 300px;
+}
+
+.card{
+    width: 250px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 60px;
+    margin-top: 15px;
+  }
+  
+
+.card img{
+    width: auto;
+    height: 200px;
+}
+
+.card .card-title{
+    margin-left: 35%;
+}
+
+.card a{
+    margin-left: -20px;
+}
+
+.navbar ul li a.active,
+.navbar ul li a:hover{
+    background-color: rgb(240, 85, 118);
+    background-size:150%
+    border-radius: 12px;
+}
+
+.navbar ul li a{
+    color: #ffffff;
+    text-decoration:none;
+    font-size: 20px;
+    padding: 6px 13px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.navbar .logo a{
+    text-decoration: none;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #f3f3f3;
+}
