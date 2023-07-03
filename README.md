@@ -1,1 +1,1 @@
-# Enst-riman-Ma-azas-
+# Enstruman-Magazasi
